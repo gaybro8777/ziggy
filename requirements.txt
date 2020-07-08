@@ -6,4 +6,4 @@ cloudant==2.0.0b1
 twitter==1.17.1
 scipy==0.15.1
 numpy==1.9.2
-requests==2.9.1
+requests==2.20.0
