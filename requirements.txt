@@ -1,4 +1,4 @@
-Flask==0.10.1
+Flask==1.0
 rauth==0.7.2
 beautifulsoup4==4.4.1
 watson-developer-cloud==0.10.0
